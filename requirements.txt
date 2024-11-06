@@ -1,0 +1,6 @@
+openai
+python-dotenv
+ipywidgets
+pandas
+ipython
+ipykernel
